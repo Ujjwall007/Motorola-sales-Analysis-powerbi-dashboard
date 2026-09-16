@@ -41,7 +41,7 @@ The dashboard provides analysis of:
 
 ## 🖥️ Dashboard Preview
 
-![Mobile Sales Dashboard](Dashboard.pn
+![Mobile Sales Dashboard](https://github.com/Ujjwall007/Motorola-sales-Analysis-powerbi-dashboard/blob/main/Dashboard.png)
 
 ## 📂 Files
 
